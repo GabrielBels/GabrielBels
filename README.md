@@ -2,6 +2,7 @@
 
 [![Facebook Bage](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/gabriel.belss)](https://www.facebook.com/gabriel.belss)
 [![GitHub followers](https://img.shields.io/github/followers/GabrielBels.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/GabrielBels?tab=followers)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram&link=https://www.instagram.com/_gabrielbelisario)](https://www.instagram.com/_gabrielbelisario)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com.br/in/gabrielbels)](https://www.linkedin.com.br/in/gabrielbels)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_GabrielBels)](https://twitter.com/_GabrielBels)
 
