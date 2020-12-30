@@ -2,9 +2,9 @@
 
 ### About me
 ⚡ - I'm a {backend and frontend} developer with knowledge in Ajax, Bootstrap, Express,  Heroku, jQuery, JS/NodeJS, RestAPI's, SQL, and the basic of ASP.NET and Python.  
-🌱 - I'm currently studying Análise e Desenvolvimento de Sistema on Uninter, and I'm learning ReactJS.
-📫 - To reach me, you can send me a message on the above social medias or contact me on the WhatsApp {+55 (31) 97576-0603}.
-💬 - Ask me about anything! 
+🌱 - I'm currently studying Análise e Desenvolvimento de Sistema on Uninter, and I'm learning ReactJS. <br>
+📫 - To reach me, you can send me a message on the above social medias or contact me on the WhatsApp {+55 (31) 97576-0603}.<br>
+💬 - Ask me about anything! <br>
 
 [![Facebook Bage](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/gabriel.belss)](https://www.facebook.com/gabriel.belss)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabrielBels)](https://github.com/GabrielBels)
