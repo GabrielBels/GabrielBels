@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/GabrielBels.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/GabrielBels?tab=followers)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com.br/in/gabrielbels)](https://www.linkedin.com.br/in/gabrielbels)
+[![Facebook Bage](https://img.shields.io/badge/-Facebook-white?style=flat&logo=facebook&link=https://www.facebook.com/gabriel.belss)](https://www.facebook.com/gabriel.belss)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
