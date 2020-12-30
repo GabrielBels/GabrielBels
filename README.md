@@ -2,7 +2,7 @@
 
 ### About me
 ⚡ - I'm a {backend and frontend} developer with knowledge in Ajax, Bootstrap, Express,  Heroku, jQuery, JS/NodeJS, RestAPI's, SQL, and the basic of ASP.NET and Python.  
-🌱 - I'm currently studying Análise e Desenvolvimento de Sistema on Uninter, and I'm learning ReactJS. <br>
+🌱 - I'm currently studying Análise e Desenvolvimento de Sistemas and I'm learning ReactJS. <br>
 💬 - Let's go to talk about anything! To contact me you can send me a message on the below social medias. <br>
 
 [![Facebook Bage](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/gabriel.belss)](https://www.facebook.com/gabriel.belss)
