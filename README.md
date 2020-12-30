@@ -2,7 +2,7 @@
 
 [![Facebook Bage](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/gabriel.belss)](https://www.facebook.com/gabriel.belss)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabrielBels)](https://github.com/GabrielBels)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=gmail&link=mailto:gabriel.mhb@gmail.com)](mailto:gabriel.mhb@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=mailto:gabriel.mhb@gmail.com)](mailto:gabriel.mhb@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=instagram&link=https://www.instagram.com/_gabrielbelisario)](https://www.instagram.com/_gabrielbelisario)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com.br/in/gabrielbels)](https://www.linkedin.com.br/in/gabrielbels)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_GabrielBels)](https://twitter.com/_GabrielBels)
