@@ -1,5 +1,3 @@
-# Gabriel Belisario
-
 Senior Software Engineer building high-scale .NET platforms, event-driven systems, and developer-first APIs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielbels-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbels/)
