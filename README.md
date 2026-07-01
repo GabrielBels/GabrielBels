@@ -1,7 +1,7 @@
 Senior Software Engineer building high-scale .NET platforms, event-driven systems, and developer-first APIs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielbels-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbels/)
-[![.NET](https://img.shields.io/badge/.NET-9-512BD4?style=flat&logo=dotnet&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-11-512BD4?style=flat&logo=dotnet&logoColor=white)](#)
 [![Kafka](https://img.shields.io/badge/Kafka-event--driven-231F20?style=flat&logo=apachekafka&logoColor=white)](#)
 [![GraphQL](https://img.shields.io/badge/GraphQL-APIs-E10098?style=flat&logo=graphql&logoColor=white)](#)
 
