@@ -1,19 +1,30 @@
-Senior Software Engineer building high-scale .NET platforms, event-driven systems, and developer-first APIs.
+Senior Software Engineer building LLM agents and AI developer tools on .NET, with a background in high-scale, event-driven platforms.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielbels-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbels/)
-[![.NET](https://img.shields.io/badge/.NET-11-512BD4?style=flat&logo=dotnet&logoColor=white)](#)
-[![Kafka](https://img.shields.io/badge/Kafka-event--driven-231F20?style=flat&logo=apachekafka&logoColor=white)](#)
-[![GraphQL](https://img.shields.io/badge/GraphQL-APIs-E10098?style=flat&logo=graphql&logoColor=white)](#)
+[![Integricode](https://img.shields.io/badge/featured-Integricode-6d28d9?style=flat&logo=github&logoColor=white)](https://github.com/GabrielBels/integricode)
 
-I work on distributed systems, platform migrations, performance bottlenecks, and AI-enabled product features. Most of my production work lives in private enterprise codebases, so this profile is where I keep public experiments, tooling, and notes around the same engineering problems.
+I build AI features that have to hold up in production: agents that call tools, answers held to a JSON schema, and plain code that checks what the model says before anyone sees it. Most of my production work lives in private enterprise codebases; the projects below are the public ones you can read end to end.
+
+## Featured: Integricode
+
+[**Integricode**](https://github.com/GabrielBels/integricode) is an AI pull-request reviewer that runs in GitHub Actions. It checks a change for bugs and against the requirement it claims to implement (a `REQ-NNN` entry or a Jira Cloud issue), and publishes only the findings it can back with evidence.
+
+- **Agent loop** on Microsoft Agent Framework, with OpenAI, Azure OpenAI, and Anthropic behind one `IChatClient` from Microsoft.Extensions.AI.
+- **Tool calling under a budget:** the model reads the repository through read-only tools, capped at 40 calls and 400k characters, and answers in a JSON schema.
+- **Code decides what gets published:** a finding is dropped unless it points at a real line of the pull request and quotes the requirement verbatim, and a "yes, it solves the requirement" verdict the evidence does not support is downgraded to "partly".
+- **Prompt-injection guardrails:** the pull request and the requirement are treated as untrusted data, and a tripwire flags text aimed at AI reviewers.
+- **Engineering:** 268 test methods (492 cases), 6 ADRs, tagged releases, and dogfooded on a private SaaS codebase.
+
+Also public: [**claude-mods**](https://github.com/GabrielBels/claude-mods), Claude Code plugins that turn git, Jira, and session history into standups, ticket handoffs, and timesheets.
 
 ## What I Work On
 
+- Building LLM agents and AI developer tools: tool calling, structured output, code-side validation, and prompt-injection defenses.
+- Integrating LLM and ML capabilities into existing products without overcomplicating the core system.
 - Modernizing legacy .NET systems into containerized, Linux-based, CI/CD-driven platforms.
 - Designing event-driven workflows with Kafka, MassTransit, background workers, and multi-tenant services.
 - Building and tuning GraphQL APIs, especially around N+1 query patterns and DataLoader strategies.
 - Migrating persistence layers across SQL Server, PostgreSQL, EF Core, Dapper, and database-first architectures.
-- Integrating LLM and ML capabilities into existing product surfaces without overcomplicating the core system.
 
 ## Production Impact
 
@@ -28,23 +39,12 @@ I work on distributed systems, platform migrations, performance bottlenecks, and
 ## Toolbox
 
 ```text
+AI:              Microsoft Agent Framework, Microsoft.Extensions.AI, OpenAI, Azure OpenAI,
+                 Anthropic, tool calling, structured output, RAG
 Languages:       C#, JavaScript, SQL
 Backend:         .NET, ASP.NET Core, MVC, Hosted Services, Hangfire
 Data:            PostgreSQL, SQL Server, EF Core, Dapper
 Architecture:    Kafka, MassTransit, GraphQL, microservices, multi-tenant systems
-Infrastructure:  Docker, Linux, Windows Server, IIS, CI/CD, AWS
+Infrastructure:  Docker, Linux, Windows Server, IIS, GitHub Actions, CI/CD, AWS
 Frontend:        React, JavaScript, jQuery
-AI:              LLM integration, RAG systems, ML-assisted product features
 ```
-
-## Current Focus
-
-- Cleaner modernization paths for legacy enterprise systems.
-- Practical AI integrations that fit real product constraints.
-- Better developer workflows for migration, comparison, and verification work.
-- Distributed-system reliability under concurrency, retries, and partial failure.
-
-## Elsewhere
-
-- LinkedIn: [linkedin.com/in/gabrielbels](https://www.linkedin.com/in/gabrielbels/)
-- GitHub: [github.com/GabrielBels](https://github.com/GabrielBels)
