@@ -9,6 +9,8 @@ I build AI features that have to hold up in production: agents that call tools, 
 
 [**Integricode**](https://github.com/GabrielBels/integricode) is an AI pull-request reviewer that runs in GitHub Actions. It checks a change for bugs and against the requirement it claims to implement (a `REQ-NNN` entry or a Jira Cloud issue), and publishes only the findings it can back with evidence.
 
+**See it run:** [a real Integricode review](https://github.com/GabrielBels/integricode-demo/pull/1) on a public demo pull request, where it flags an off-by-one that the pull request's 8 passing tests miss.
+
 - **Agent loop** on Microsoft Agent Framework, with OpenAI, Azure OpenAI, and Anthropic behind one `IChatClient` from Microsoft.Extensions.AI.
 - **Tool calling under a budget:** the model reads the repository through read-only tools, capped at 40 calls and 400k characters, and answers in a JSON schema.
 - **Code decides what gets published:** a finding is dropped unless it points at a real line of the pull request and quotes the requirement verbatim, and a "yes, it solves the requirement" verdict the evidence does not support is downgraded to "partly".
